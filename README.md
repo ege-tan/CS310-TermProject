@@ -59,3 +59,9 @@
 ✅ **MongoDB** – NoSQL database for flexible data storage  
 ✅ **JWT Authentication** – Secure login and session management  
 ✅ **REST API** – Exposes endpoints for communication  
+
+---
+
+https://github.com/user-attachments/assets/1fd56108-50f4-498d-8d0c-476af8740fb8
+
+
